@@ -1,3 +1,4 @@
+# Generate Contextualised Utterance Embeddings with BART
 Set of python scripts to generate utterance embeddings representing utterances in the context of their parent paragraph. 
 To use, run make_embeddings_file.py. In make_embeddings_file.py, change the model argument to specify the kind of 
 contextualisation (options are aware (which generates embeddings representing utterances in the context of their parent 
